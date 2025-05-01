@@ -1,4 +1,4 @@
-# ADIL_KHAN
+
 # 💫 About Me:
 I'm Adil khan, a curious student<br>I'm currently learning Data science as well as nutrition<br>
 
